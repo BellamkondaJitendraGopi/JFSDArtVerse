@@ -1,3 +1,19 @@
+# JFSDArtVerse
+
+This project was developed as part of a team effort.
+
+## Team Members:
+- [Bellamkonda Jitendra Gopi](https://github.com/BellamkondaJitendraGopi)
+- [Majety Naga Satya Venkata Ram Thrinadh](https://github.com/Ram3Nadh)
+- [Shaik Bara Shaheed](https://github.com/shaikbarashaheed)
+
+Original repository: Team Leader [Ram3Nadh's Repo](https://github.com/Ram3Nadh/JFSDArtVerse)
+
+
+
+
+
+
 Please follow the instructions to run this project.
  step 1) update application.properites( give your mysql database name and password of that), give some port number which is not in use.
 
