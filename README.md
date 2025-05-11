@@ -14,6 +14,7 @@ This project was developed as part of a team effort.
 
 
 Please follow the instructions to run this project.
+
  step 1) update application.properites( give your mysql database name and password of that), give some port number which is not in use.
 
  step 2) run as spring boot app.
