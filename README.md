@@ -7,7 +7,6 @@ This project was developed as part of a team effort.
 - [Majety Naga Satya Venkata Ram Thrinadh](https://github.com/Ram3Nadh)
 - [Shaik Bara Shaheed](https://github.com/shaikbarashaheed)
 
-Original repository: Team Leader [Ram3Nadh's Repo](https://github.com/Ram3Nadh/JFSDArtVerse)
 
 
 
